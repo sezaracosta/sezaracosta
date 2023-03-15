@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tenho 25 anos, sou técnico em informática, estudei por três anos Engenharia da computação no Centro Universitário de Rio Preto e Administrador de banco de dados por um ano e meio na Faculdade Cruzeiro do Sul. Com oito anos de experiência na área de TI em manutenção de computadores e servidores, nos últimos três anos venho estudando Sistema Operacional Open Source (Linux), Python. Aficcionado por games e novas tecnologias, tenho facilidade em trabalhar em equipe e lidar com situações de tomadas de decisões ágeis e assertivas
+Tenho 25 anos, sou técnico em informática, estudei por três anos Engenharia da computação no Centro Universitário de Rio Preto e Administrador de banco de dados por um ano e meio na Faculdade Cruzeiro do Sul. Com oito anos de experiência na área de TI em manutenção de computadores e servidores, nos últimos três anos venho estudando Sistema Operacional Open Source (Linux), Python. Aficcionado por games e novas tecnologias, tenho facilidade em trabalhar em equipe e lidar com situações de tomadas de decisões ágeis e assertivas.
 
 
 ## 🌐 Socials:
